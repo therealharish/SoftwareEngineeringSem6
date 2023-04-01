@@ -23,5 +23,7 @@ Alternatively, you can download the repository as a ZIP file and extract it.
 
 If you have any additional study material that you would like to add to this repository, feel free to submit a pull request. Please ensure that any contributions adhere to the code of conduct and licensing terms of this repository.
 
+P.S. Thanks for checking out my repository! If you find it useful, please consider starring it. Have a great day! 🌟
+
 
 
