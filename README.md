@@ -15,7 +15,7 @@ The repository includes the following study material:
 
 To access the study material, you can clone this repository using the following command:
 
-git clone https://github.com/therealharish/SoftwareEngineeringSem6.git
+`git clone https://github.com/therealharish/SoftwareEngineeringSem6.git`
 
 Alternatively, you can download the repository as a ZIP file and extract it.
 
